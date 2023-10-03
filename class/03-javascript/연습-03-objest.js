@@ -1,16 +1,16 @@
-// let friend = {
-//     name: "철수", 
-//     age: 13, 
-//     camp: "코드캠프"
-// }
+let friend = {
+    name: "철수", 
+    age: 13, 
+    camp: "코드캠프"
+}
 // undefined
-// friend
+friend
 // {name: '철수', age: 13, camp: '코드캠프'}
-// friend.name
+friend.name
 // '철수'
-// friend.age
+friend.age
 // 13
-// friend.camp
-// '코드캠프
-// friend.test
+friend.camp
+// 코드캠프
+friend.test
 // undefined
